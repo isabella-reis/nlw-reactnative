@@ -11,10 +11,10 @@ const MENU = [
         cover: require("../../assets/products/cover/1.png"),
         thumbnail: require("../../assets/products/thumbnail/1.png"),
         ingredients: [
+          "Neste arranjo floral, os cravos vermelhos assumem o centro do palco, suas flores vibrantes e sedutoras capturam o olhar e aquecem o coração com sua paixão ardente. Em meio a eles, os ramos auxiliares de eucalipto emprestam sua frescura revigorante, enquanto o limonium adiciona uma leveza graciosa à composição. Juntos, esses elementos se entrelaçam em uma dança de cores e aromas, criando um cenário de beleza e encanto para deleitar os sentidos.",
           "Arranjo de cravos de variados tamanhos;",
           "Ramos auxiliares de eucalipto;",
           "Ramos auxiliares de limonium;",
-          "Neste arranjo floral, os cravos vermelhos assumem o centro do palco, suas flores vibrantes e sedutoras capturam o olhar e aquecem o coração com sua paixão ardente. Em meio a eles, os ramos auxiliares de eucalipto emprestam sua frescura revigorante, enquanto o limonium adiciona uma leveza graciosa à composição. Juntos, esses elementos se entrelaçam em uma dança de cores e aromas, criando um cenário de beleza e encanto para deleitar os sentidos.",
           "Deixar o arranjo em vaso com água em temperatura ambiente, trocar toda semana.",
         ],
       },
@@ -32,8 +32,8 @@ const MENU = [
         cover: require("../../assets/products/cover/2.png"),
         thumbnail: require("../../assets/products/thumbnail/2.png"),
         ingredients: [
-          "01 galho de astromélias vermelhas.",
           "As astromélias vermelhas são frequentemente associadas ao entusiasmo, à energia e à paixão. Elas podem transmitir sentimentos de amor ardente e devoção, bem como expressar alegria e felicidade.",
+          "01 galho de astromélias vermelhas.",
           "Quantidade de flores por galho pode variar.",
           "Cortar galho na diagonal para maior tempo de vida da flor.",
         ],
@@ -46,8 +46,8 @@ const MENU = [
         cover: require("../../assets/products/cover/3.png"),
         thumbnail: require("../../assets/products/thumbnail/3.png"),
         ingredients: [
-          "01 galho de peônias brancas.",
           "As peônias brancas são frequentemente associadas à pureza, à inocência e à beleza feminina. Elas também podem simbolizar sinceridade e uma vida feliz e próspera.",
+          "01 galho de peônias brancas.",
           "Quantidade de flores por galho pode variar.",
           "Cortar galho na diagonal para maior tempo de vida da flor.",
         ],
@@ -61,8 +61,8 @@ const MENU = [
         cover: require("../../assets/products/cover/4.png"),
         thumbnail: require("../../assets/products/thumbnail/4.png"),
         ingredients: [
-          "01 galho de cravos vermelhos.",
           "Os cravos vermelhos são frequentemente associados ao amor e à paixão. Eles podem representar amor romântico, admiração e respeito. Também são usados para expressar coragem e força de vontade.",
+          "01 galho de cravos vermelhos.",
           "Quantidade de flores por galho pode variar.",
           "Cortar galho na diagonal para maior tempo de vida da flor.",
         ],
@@ -109,7 +109,7 @@ const MENU = [
         id: "7",
         title: "Papel pardo",
         price: 5.00,
-        thumbnail: require("../../assets/products/thumbnail/7.png"),
+        thumbnail: require("../../assets/products/thumbnail/8.png"),
         cover: require("../../assets/products/cover/7.png"),
         description:
           "Papel pardo para embrulho de presentes e buquês! Utilize sua criatividade e dê um toque especial para seus ramos.",
@@ -119,7 +119,7 @@ const MENU = [
         id: "8",
         title: "Cartão para recado",
         price: 2.50,
-        thumbnail: require("../../assets/products/thumbnail/8.png"),
+        thumbnail: require("../../assets/products/thumbnail/7.png"),
         cover: require("../../assets/products/cover/8.png"),
         description:
           "Cartão em papel de gramatura alta para recado! Para escrever seu coração ao presentear uma pessoa querida.",
